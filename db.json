@@ -1,0 +1,84 @@
+{
+
+	"products": [{
+			"barcode": "5012345678900",
+			"category": "FOOD",
+			"name": "Fragole",
+			"price": "30f",
+			"weight": "0.4f",
+			"discount": "0f"
+		},
+		{
+			"barcode": "9780201379624",
+			"category": "FOOD",
+			"name": "PizzaMargherita",
+			"price": "29f",
+			"weight": "0.6f",
+			"discount": "0.5f"
+		},
+		{
+			"barcode": "9740508339622",
+			"category": "FOOD",
+			"name": "Fettine di Tacchino",
+			"price": "30f",
+			"weight": "0.4f",
+			"discount": "0f"
+		},
+		{
+			"barcode": "1741008339622",
+			"category": "BEVERAGE",
+			"name": "Coca-Cola 2L",
+			"price": "3f",
+			"weight": "2f",
+			"discount": "0.1f"
+		},
+		{
+			"barcode": "2741056739626",
+			"category": "BEVERAGE",
+			"name": "Chianti Felsina",
+			"price": "28f",
+			"weight": "1f",
+			"discount": "0.5f"
+		},
+		{
+			"barcode": "8621051739620",
+			"category": "KIDS",
+			"name": "Faber Castell Matite",
+			"price": "44f",
+			"weight": "0.3f",
+			"discount": "0f"
+		},
+		{
+			"barcode": "9871051739628",
+			"category": "KIDS",
+			"name": "Biberon MAM 2x",
+			"price": "20f",
+			"weight": "0.8f",
+			"discoount": "0.3f"
+		},
+		{
+			"barcode": "5871053919626",
+			"category": "HOME",
+			"name": "Swiffer",
+			"price": "5f",
+			"weight": "0.3f",
+			"discount": "0.05"
+		},
+		{
+			"barcode": "1111053919627",
+			"category": "CLOTHING",
+			"name": "White Shirt Man L x3",
+			"price": "15f",
+			"weight": "0.6f",
+			"discount": "0.1f"
+		},
+		{
+			"barcode": "1234567890111",
+			"category": "OTHER",
+			"name": "Cover MOTO Z",
+			"price": "10f",
+			"weight": "0.1f",
+			"discount": "0.3f"
+		}
+	]
+}
