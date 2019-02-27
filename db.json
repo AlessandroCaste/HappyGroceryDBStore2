@@ -54,7 +54,7 @@
 			"name": "Biberon MAM 2x",
 			"price": "20f",
 			"weight": "0.8f",
-			"discoount": "0.3f"
+			"discount": "0.3f"
 		},
 		{
 			"barcode": "5871053919626",
