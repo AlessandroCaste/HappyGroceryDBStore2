@@ -4,7 +4,7 @@
 			"barcode": "5012345678900",
 			"category": "FOOD",
 			"name": "Fragole",
-			"price": "30f",
+			"price": "4.5f",
 			"weight": "0.4f",
 			"discount": "0f"
 		},
@@ -12,7 +12,7 @@
 			"barcode": "9780201379624",
 			"category": "FOOD",
 			"name": "PizzaMargherita",
-			"price": "29f",
+			"price": "5f",
 			"weight": "0.6f",
 			"discount": "0.5f"
 		},
@@ -20,7 +20,7 @@
 			"barcode": "9740508339622",
 			"category": "FOOD",
 			"name": "Fettine di Tacchino",
-			"price": "30f",
+			"price": "6f",
 			"weight": "0.4f",
 			"discount": "0f"
 		},
@@ -36,7 +36,7 @@
 			"barcode": "2741056739626",
 			"category": "BEVERAGE",
 			"name": "Chianti Felsina",
-			"price": "28f",
+			"price": "25f",
 			"weight": "1f",
 			"discount": "0.5f"
 		},
@@ -44,7 +44,7 @@
 			"barcode": "8621051739620",
 			"category": "KIDS",
 			"name": "Faber Castell Matite",
-			"price": "44f",
+			"price": "10f",
 			"weight": "0.3f",
 			"discount": "0f"
 		},
@@ -52,7 +52,7 @@
 			"barcode": "9871051739628",
 			"category": "KIDS",
 			"name": "Biberon MAM 2x",
-			"price": "20f",
+			"price": "12f",
 			"weight": "0.8f",
 			"discount": "0.3f"
 		},
